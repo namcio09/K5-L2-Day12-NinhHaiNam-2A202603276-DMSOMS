@@ -1,0 +1,5 @@
+File: export_final.zip · chỉ kiểm ảnh: D01, D02
+Ảnh: 2 · đã có frame_meta: 2 · số đối tượng: face=2, face13=2, hand=3, person=2
+  [WARN] D02.png: left_eye_outer nằm bên trái ảnh so với right_eye_outer: kiểm lại quy ước trái/phải theo người (đúng nếu mặt quay hẳn sang bên)
+Kết quả: 0 lỗi, 1 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+Ghi chú: D02 là ảnh Drive&Act xoay khoảng 90°. Đối chiếu tọa độ face13 trong export: left_eye_outer y=835.83, right_eye_outer y=547.36; mắt trái có y lớn hơn mắt phải theo GUIDE §4.6. Cảnh báo của script so vị trí theo trục x nên không áp dụng trực tiếp cho ảnh xoay này.
